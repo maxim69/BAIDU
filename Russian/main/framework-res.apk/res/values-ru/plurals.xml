@@ -68,15 +68,15 @@
         <item quantity="one">завтра</item>
     </plurals>
     <plurals name="duration_seconds">
-        <item quantity="other">%d секунд(ы)</item>
-        <item quantity="one">1 секунда</item>
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">1 сек.</item>
     </plurals>
     <plurals name="duration_minutes">
-        <item quantity="other">%d минут(ы)</item>
-        <item quantity="one">1 минута</item>
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">1 мин.</item>
     </plurals>
     <plurals name="duration_hours">
-        <item quantity="other">%d часа(ов)</item>
+        <item quantity="other">%d ч.</item>
         <item quantity="one">1 час</item>
     </plurals>
     <plurals name="wifi_available">
